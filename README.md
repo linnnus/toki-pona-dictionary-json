@@ -1,0 +1,1 @@
+This is just a quickly scraped dictionary for my projects. I can't guarantee any quality, but that doesn't really matter to me, since i zmostly use the dictionary as a dummy because it's so small and easy to work with. 
